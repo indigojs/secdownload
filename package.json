@@ -1,0 +1,28 @@
+{
+  "name": "secdownload",
+  "description": "Lighttpd mod_secdownload implementation",
+  "version": "0.0.1",
+  "author": {
+    "name": "Márk Sági-Kazár",
+    "email": "mark.sagikazar@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indigojs/secdownload"
+  },
+  "dependencies": {
+    "konphyg": "1.2.x",
+    "phpjs": "1.0.x",
+    "mime": "1.2.11",
+    "express": "3.4.8",
+    "jade": "*",
+    "less-middleware": "*"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indigojs/secdownload/issues"
+  },
+  "homepage": "https://github.com/indigojs/secdownload",
+  "readmeFilename": "README.md",
+  "main": "index.js"
+}
